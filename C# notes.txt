@@ -12,6 +12,7 @@ What each part of it means:
   Console is an example of a class
   
   Write - Outputs a line of text based off the class
+  Write is an example of a method
   Multiple Write commands will output on the same line
   Ex:
   Console.Write("Hello");
@@ -20,3 +21,5 @@ What each part of it means:
 
   Output:
   HelloHelloHello
+
+  WriteLine - t
