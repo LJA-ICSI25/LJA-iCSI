@@ -1,2 +1,2 @@
 <h1>This is just a collection of me being bored.</h1>
-<p>This will mostly have notes and in the ITF+ tab will have ALL iCSI notes I take.</p>
+<p>This will have the code for anything I do in my Notion page.</p>
