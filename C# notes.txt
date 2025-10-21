@@ -1,0 +1,14 @@
+C# Notes
+(C# is case senstive!)
+---------------------------------------------------------------------------------
+Example of command:
+Cosole.WriteLine("Hello World!");
+
+Output:
+Hello World!
+
+What each part of it means:
+  Console - Defines all outputs will be displayed in the console
+  Console is an example of a class
+
+  
