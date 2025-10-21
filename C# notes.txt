@@ -10,5 +10,13 @@ Hello World!
 What each part of it means:
   Console - Defines all outputs will be displayed in the console
   Console is an example of a class
-
   
+  Write - Outputs a line of text based off the class
+  Multiple Write commands will output on the same line
+  Ex:
+  Console.Write("Hello");
+  Console.Write("Hello");
+  Console.Write("Hello");
+
+  Output:
+  HelloHelloHello
